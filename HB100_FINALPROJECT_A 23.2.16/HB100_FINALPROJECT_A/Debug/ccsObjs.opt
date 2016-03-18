@@ -1,0 +1,1 @@
+"./FFT_signal.obj" "./buffer.obj" "./filter_data.obj" "./main.obj" "./math_helper.obj" "./samping.obj" "./signal_dsp.obj" "./ti_hamming_window_vector.obj" "./tm4c123gh6pm_startup_ccs.obj" "C:/ti/TivaWare_C_Series-2.1.1.71/driverlib/ccs/Debug/driverlib.lib" "../tm4c123gh6pm.cmd" -l"libc.a" -l"C:\Users\Thuy Vy\workspace_v6_1\dsplib-cm4f\Debug\dsplib-cm4f.lib" 
